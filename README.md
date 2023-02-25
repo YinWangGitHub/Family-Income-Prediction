@@ -1,5 +1,5 @@
 # Family Income Prediction for $25M Marketing Campaign
-Authors: Jeriel, Yin, Kieran
+Authors: Jeriel Wadjas, Yin Wang, Kieran Furse
 
 • Designed and evaluated Naïve Bayes, logistic regression, and random forest models using 
 Python to predict if family income is above 50K per year, reaching 83.4% accuracy
